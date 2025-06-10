@@ -282,7 +282,7 @@ GameObject:
   m_Component:
   - component: {fileID: 346425378}
   m_Layer: 0
-  m_Name: Transparente e Alfa
+  m_Name: 2 - Transparente e Alfa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -317,7 +317,7 @@ GameObject:
   m_Component:
   - component: {fileID: 562604695}
   m_Layer: 0
-  m_Name: The Depth Buffer
+  m_Name: 3 - Profundo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1209,7 +1209,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1902116616}
   m_Layer: 0
-  m_Name: Textura
+  m_Name: 1 - Textura
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
