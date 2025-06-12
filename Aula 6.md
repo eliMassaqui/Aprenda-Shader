@@ -26,14 +26,6 @@ Este projeto demonstra como criar e aplicar **shaders de luz personalizados** us
 - **Shader Graph Nodes**:
   - `Normal Vector`, `Dot Product`, `Fresnel Effect`, `Light Direction`
 
-## 📸 Screenshots
-
-![Diffuse Shader](docs/diffuse_example.png)
-*Exemplo de iluminação difusa simples com Shader Graph*
-
-![Specular Shader](docs/specular_example.png)
-*Shader com iluminação especular (Phong)*
-
 ## 📘 Referências
 
 - Livro: *Building Quality Shaders for Unity Using Shader Graphs* - Daniel Ilett  
