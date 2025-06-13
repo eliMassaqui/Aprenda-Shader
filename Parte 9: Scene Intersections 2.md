@@ -1,4 +1,4 @@
-# 🌊 Unity Shader Graph - Parte 9: Scene Intersections 2
+# 🌊 Unity Shader Graph - Parte 9 - Scene Intersections 2
 
 Este projeto apresenta dois efeitos visuais avançados usando **Shader Graph** no Unity: **espuma dinâmica em água** e **brilho em objetos na interseção com o solo**. Ambos usam a técnica de *scene depth intersection*.
 
